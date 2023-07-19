@@ -1,9 +1,9 @@
 # LLM family chart
 
-## March 2023 - Recent Instruction/Chat-Based Models and their parents
+## March-Jul 2023 - Recent Instruction/Chat-Based Models and their parents
 
-![alt text](LLMfamily2023Mar.drawio.png)
+![alt text](2023_LLMfamily.drawio.png)
 
-Editable version: LLMfamily2023Mar.drawio.xml
+Editable version: 2023_LLMfamily.drawio.xml
 
 - using drawio
